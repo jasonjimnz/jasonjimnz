@@ -1,8 +1,8 @@
 # Hi there, I'm Jason Jiménez Cruz
 
-**Senior Data Architect | Full Stack AI Engineer | MLOps | Problem Solver**
+**Senior Data Architect | Full Stack AI Engineer | MLOps/LLMOps | Data Scientist**
 
-I am a technologist based in Toledo, Spain, currently working as a remote Data Architect. With over a decade of experience bridging the gap between massive, distributed data warehouses and interactive discovery environments, I like to architect systems that treat performance as a feature, not an afterthought. 
+I am a hands-on architect and developer based in Toledo, Spain, currently working as a remote Data Architect. With over a decade of experience bridging the gap between massive, distributed data warehouses and interactive discovery environments, I like to architect systems that treat performance as a feature, not an afterthought. 
 
 I also build many AI & LLM based solutions for reducing the negative impact of small language models in agentic systems, everything local-first and thinking on production from the first line of code
 
