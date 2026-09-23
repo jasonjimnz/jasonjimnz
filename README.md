@@ -60,6 +60,7 @@ I also build many AI & LLM based solutions for reducing the negative impact of s
 
 ### Featured Projects
 
+* **[Minichat Studio](https://github.com/jasonjimnz/minichat_studio)** A Python webapp for handling and creating LLM datasets and applying documental harness for testing and enhancing entries, all embbed in the system just requires an LLM and Embedding model with OpenAI endpoints exposed.
 * **[Data Buddy](https://data-buddy-jasonjimnz-jasonjimnz.apps.nan.builders/):** An AI-powered data engineering assistant for making POCs or learning purposes, made with Langchain, Arize Phoenix, and a lean Django-based background worker. It abstracts the friction of modern data orchestration, helping teams generate ETL scripts, SQL, and Jupyter notebooks securely.
 * **[Sendou.ink Python SDK](https://github.com/jasonjimnz/sendou_ink_sdk):** A fully Pythonic, developer-friendly interface for the Sendou.ink API. Designed to facilitate data extraction and automation for the competitive Splatoon community.
 * **[OBS-Switch](https://github.com/Splatoon-Stronghold/obs-switch):** A Python package enhancing livestreaming production by enabling Nintendo Switch and OBS automations via webhooks and websockets.
