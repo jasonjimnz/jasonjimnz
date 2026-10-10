@@ -82,4 +82,5 @@ I frequently publish technical deep-dives on [Medium](https://jasonjimenezcruz.m
 
 - **GitHub:** [@jasonjimnz](https://github.com/jasonjimnz)
 - **Medium:** [@jasonjimenezcruz](https://jasonjimenezcruz.medium.com/)
-- **LinkedIn** [/in/jasonjimenezcruz](https://www.linkedin.com/in/jasonjimenezcruz/)
+- **LinkedIn:** [/in/jasonjimenezcruz](https://www.linkedin.com/in/jasonjimenezcruz/)
+- **Ko-Fi:** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q01WATD)
