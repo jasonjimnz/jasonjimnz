@@ -83,6 +83,7 @@ I frequently publish technical deep-dives on [Medium](https://jasonjimenezcruz.m
 - **GitHub:** [@jasonjimnz](https://github.com/jasonjimnz)
 - **Medium:** [@jasonjimenezcruz](https://jasonjimenezcruz.medium.com/)
 - **LinkedIn:** [/in/jasonjimenezcruz](https://www.linkedin.com/in/jasonjimenezcruz/)
+- **Huggingface:** [https://huggingface.co/jasonjimnz](https://huggingface.co/jasonjimnz)
 
 ---
 
